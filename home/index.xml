@@ -36,8 +36,9 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://anuradha495.github.io/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>About I am currently pursuing graduate studies in Petroleum Engineering at The University of Texas at Austin. My research is focused on applying advanced experimental techniques and modelling the behavior of foams used in enhanced oil recovery.
+Previously, I worked as a Process Engineer at Sulzer Chemtech, where I designed basic engineering packages for various distillation units.
+I graduated from BITS Pilani, India in 2016 with a degree in Chemical Engineering.</description>
     </item>
     
     <item>
@@ -122,13 +123,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Custom Section</title>
+      <title>Teaching</title>
       <link>https://anuradha495.github.io/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>https://anuradha495.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <description></description>
     </item>
     
     <item>
